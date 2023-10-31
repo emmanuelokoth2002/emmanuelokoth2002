@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Emmanuel Otieno</h1>
 <h3 align="center">A passionate Software Engineer from Kenya</h3>
 
-- 🌱 I’m currently an ALX Software Engineering Student
+- 🌱 I’m currently an ALX Africa Software Engineering Student
 - 🌱 I'm also a Chuka University Student taking **Computer Science**
 
-- 👯 I’m looking to collaborate on **on any project available**
+- 👯 I’m looking to collaborate **on any project available**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
