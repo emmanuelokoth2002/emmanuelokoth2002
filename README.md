@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Emmanuel Otieno</h1>
 <h3 align="center">A passionate Software Engineer from Kenya</h3>
 
-- 🌱 I’m currently an ALX Africa Software Engineering Student
+- 🌱 I’m a graduate from ALX Africa Software Engineering program
 - 🌱 I'm also a Chuka University Student taking **Computer Science**
 
 - 👯 I’m looking to collaborate **on any project available**
