@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Software Engineer from Kenya</h3>
 
 - 🌱 I’m a graduate from ALX Africa Software Engineering program
-- 🌱 I'm also a Chuka University Student taking **Computer Science**
+- 🌱 I’ve completed my **Computer Science** degree coursework at **Chuka University** (expected graduation: November, 2025)
 
 - 👯 I’m looking to collaborate **on any project available**
 
